@@ -3,10 +3,16 @@
          height="45"
          width="45" />My name is Tomasz
 <p>
-<div align="center">             
+<div align="center">
+  <img src="3826-barrow1.gif"
+         height="26"
+         width="35">
   <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Personal-homepage logo"  />
+    <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=border-radius=30" height="30" alt="Personal-homepage logo" />
   </a>
+  <img src="1492-blue-arrow-left.gif"
+         height="26"
+         width="35">
 </div>
 </p>
 </h1>
