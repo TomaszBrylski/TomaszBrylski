@@ -1,7 +1,7 @@
 <h1 align="center"> Hi!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />My name is Tomasz and I'm a Frontend Developer from Germany</h1>
+         width="45" />My name is Tomasz</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomaszBrylski&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
 
