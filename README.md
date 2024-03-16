@@ -7,7 +7,7 @@
    <img src="3826-barrow1.gif"
          height="26"
          width="35">
-   <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank" rel="noreferre" >
+   <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank" rel="noreferre">
    <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge&style=border-radius30" height="30" alt="Personal-homepage logo" />
    </a>
    <img src="1492-blue-arrow-left.gif"
@@ -29,10 +29,10 @@
 
 ## 🌐 Socials
 <div align="left">
-  <a href="mailto:brylskitomasz@gmail.com" target="_blank">
+  <a href="mailto:brylskitomasz@gmail.com" target="_blank" rel="noreferre">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/tomasz-brylski-470332279/" target="_blank">
+  <a href="https://www.linkedin.com/in/tomasz-brylski-470332279/" target="_blank" rel="noreferre">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
