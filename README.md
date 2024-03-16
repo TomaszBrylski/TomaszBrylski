@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hi!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />My name is Tomasz and I'm a Frontend Developer from Germany/Poland</h1>
 
-<!--
-**TomaszBrylski/TomaszBrylski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrycja-gomza&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
 
-Here are some ideas to get you started:
+# 💫 About Me :
+- 😄 Pronouns: He/Him
+- 🔭 I am currently working on developing my skills in React.js
+- 🌱 I’m currently learning 
+- 🚀 I explore fascinating areas of frontend development, delving into cutting-edge technologies, responsive web design or user experience optimization.
+- 📫 How to reach me: Check social links below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+<div align="left">
+  <a href="https://www.linkedin.com/in/tomasz-brylski-470332279/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:brylskitomasz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
