@@ -2,20 +2,19 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />My name is Tomasz
-<p>
-<div align="center">
-  <img src="3826-barrow1.gif"
+ <p>
+  <div align="center">
+   <img src="3826-barrow1.gif"
          height="26"
          width="35">
- <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank" rel="noreferre">
-  <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Personal-homepage logo" style="border-radius: 30px;" />
-</a>
-
-  <img src="1492-blue-arrow-left.gif"
+   <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank" rel="noopener" >
+   <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge&style=border-radius30" height="30" alt="Personal-homepage logo" />
+   </a>
+   <img src="1492-blue-arrow-left.gif"
          height="26"
          width="35">
-</div>
-</p>
+  </div>
+ </p>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomaszBrylski&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
