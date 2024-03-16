@@ -3,7 +3,7 @@
          height="45"
          width="45" />My name is Tomasz and I'm a Frontend Developer from Germany/Poland</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrycja-gomza&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TomaszBrylski&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/Him
