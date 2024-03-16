@@ -5,12 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomaszBrylski&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
 
-# 💫 About Me :
-- 😄 Pronouns: He/Him
-- 🔭 I am currently working on developing my skills in React.js
-- 🌱 I’m currently learning 
-- 🚀 I explore fascinating areas of frontend development, delving into cutting-edge technologies, responsive web design or user experience optimization.
-- 📫 How to reach me: Check social links below.
+# 🧑‍💻 About Me :
+- 👥 Pronouns: He/Him
+- ⚙ I am currently working on developing my skills in React.js
+- 🌱 I embrace new challenges, and am constantly expanding my knowledge of programming technology!
+- 🌏🔎 I am exploring the fascinating areas of frontend development, delving into cutting-edge technologies, responsive web design or user experience optimization, and discovering the world of 🦾 artificial intelligence and the speed at which changes related to it are taking place. Game-Changer in the world of technology.
+- 🤸 I train calisthenics on a daily basis, which helps me develop and push my limits and boundaries.
+- 📨 How to reach me: Check social links below.
 
 ## 🌐 Socials
 <div align="left">
