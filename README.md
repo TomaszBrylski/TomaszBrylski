@@ -1,7 +1,15 @@
 <h1 align="center"> Hi!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />My name is Tomasz</h1>
+         width="45" />My name is Tomasz
+<p>
+<div align="center">             
+  <a href="https://tomaszbrylski.github.io/Personal-homepage/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Personal-homepage&logo=Personal-homepage&label=&color=teal&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Personal-homepage logo"  />
+  </a>
+</div>
+</p>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TomaszBrylski&label=Views&color=blue&style=plastic&style=for-the-badge" alt="views-TomaszBrylski" /> </p>
 
